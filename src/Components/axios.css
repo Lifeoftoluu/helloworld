@@ -1,0 +1,16 @@
+table{
+    width:100%
+}
+
+table, th, td {
+    border: 2px solid white;
+  }
+
+.title{
+    font-weight: bolder;
+}
+
+.clickable-row:hover {
+        background-color: aquamarine;
+      }
+

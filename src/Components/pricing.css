@@ -1,0 +1,38 @@
+h2{
+    padding-top: 2rem;
+}  
+
+
+.col-1 p{
+    background-color: rgb(78, 78, 135);
+}
+
+.col-2 p{
+    background-color: rgb(165, 125, 51);
+    
+}
+
+.col-3 p{
+    background-color: rgb(177, 46, 90);
+    
+}
+    
+.col-1{
+    text-align: center;
+    
+}
+
+.col-2 {
+    text-align: center;
+    margin-left: 3.5rem;
+    padding-top: 7rem;
+}
+
+.col-3{
+    text-align: center;
+    margin-left: 6rem;
+}
+
+.row{
+    width: 150%
+}

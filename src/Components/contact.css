@@ -1,0 +1,38 @@
+h1{
+ font-family: 'segoe print';
+ text-align: center;
+ font-size: larger;
+ padding-top: 
+}
+
+.instagramicon a{
+    font-size: 2rem;
+    color: white;
+     
+}
+
+.facebookicon a{
+    font-size: 2rem;
+    color: white;
+}
+
+.twittericon a{
+    font-size: 2rem;
+    color:aliceblue;
+}
+
+.col1{
+    padding-top: 2rem;
+}
+
+.instagramicon p{
+    padding-top: 2rem;
+}
+
+.facebookicon p{
+    padding-top: 2rem;
+}
+
+.twittericon p{
+    padding-top: 2rem;
+}

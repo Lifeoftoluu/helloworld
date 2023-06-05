@@ -1,0 +1,20 @@
+.nav-pills{
+    background-image: url(Anime-Wallpaper-01-1920x1080-1.jpg);
+    opacity: 200%;
+    
+}    
+
+.nav-item a{
+    font-weight: bolder;  
+    color: rgb(237, 218, 247);
+    font-family: 'Ink free';
+    font-size: larger;                                            
+}
+
+.me{
+    padding-left: initial;
+    height: 30px;
+    text-decoration: dotted;
+    font-family: "candara";
+}
+

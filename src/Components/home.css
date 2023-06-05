@@ -1,0 +1,27 @@
+.img-photo{
+    width: 500px;
+    height: 600px;
+}
+
+p{
+    font-family: "Comic Sans MS" ;
+}
+h3{
+    font-family: Gabriola;
+    font-weight: bolder;
+    color: aqua;
+    font-size: xx-large;
+}
+
+.img-photo2{
+    border-radius: 50px;
+}
+
+.container{
+    text-align: left;
+}
+
+h5{
+    text-decoration:overline;
+    color:yellow;
+}
